@@ -1,0 +1,13 @@
+X:\ECE 422\lab5_1\lab5_1\bin\Debug\lab5_1.exe.config
+X:\ECE 422\lab5_1\lab5_1\obj\Debug\lab5_1.frmMain.resources
+X:\ECE 422\lab5_1\lab5_1\obj\Debug\lab5_1.Properties.Resources.resources
+X:\ECE 422\lab5_1\lab5_1\obj\Debug\lab5_1.csproj.GenerateResource.Cache
+X:\ECE 422\lab5_1\lab5_1\bin\Debug\lab5_1.exe
+X:\ECE 422\lab5_1\lab5_1\bin\Debug\lab5_1.pdb
+X:\ECE 422\lab5_1\lab5_1\obj\Debug\lab5_1.frmPortSettings.resources
+X:\ECE 422\lab5_1\lab5_1\obj\Debug\lab5_1.exe
+X:\ECE 422\lab5_1\lab5_1\obj\Debug\lab5_1.pdb
+X:\ECE 422\lab5_1\lab5_1\obj\Debug\lab5_1.csprojResolveAssemblyReference.cache
+D:\422\Lab5\lab5_1\bin\Debug\lab5_1.exe.config
+D:\422\Lab5\lab5_1\obj\Debug\lab5_1.exe
+D:\422\Lab5\lab5_1\obj\Debug\lab5_1.pdb
